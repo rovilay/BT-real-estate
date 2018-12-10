@@ -1,4 +1,5 @@
 {
     "python.pythonPath": "venv/bin/python",
-    "editor.formatOnPaste": true
+    "editor.formatOnPaste": true,
+    "editor.rulers": [100]
 }
